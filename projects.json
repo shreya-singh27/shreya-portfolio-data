@@ -1,8 +1,8 @@
 [
   {
-    "title": "Docker Pipeline Automation",
-    "description": "Automated CI/CD pipeline using Docker and GitHub Actions.",
-    "tech": ["Docker", "GitHub Actions"],
-    "link": "https://github.com/shreya-singh27/Docker-pipeline-automation"
+    "title": "Automated-docker-builds-with-jenkins",
+    "description": "Automated Docker build with CI/CD Pipeline.",
+    "tech": ["Docker", "Jenkins"],
+    "link": "https://github.com/shreya-singh27/Automated-docker-builds-with-jenkins"
   }
 ]
